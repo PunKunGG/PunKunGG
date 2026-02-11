@@ -1,5 +1,5 @@
-# Hi there 👋
-My name is Siwapad Phusrion but you can call me Kawpun
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">My name is Siwapad Phusrion but you can call me Kawpun</h3>
 
 ![hippo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFyc2ZtdzQ3NHB0YTVvOHBidDNrcng3M2theWtza2s5MHh5bXMzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif)
 
