@@ -46,7 +46,7 @@
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,nodejs,express,laravel,firebase,supabase,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,nuxt,nodejs,express,laravel,firebase,supabase,tailwind,bootstrap" />
 </p>
 
 ### Database & Platforms
