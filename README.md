@@ -62,12 +62,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PunKunGG&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunKunGG&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PunKunGG&theme=tokyonight&hide_border=true" />
 </p>
@@ -108,6 +102,12 @@ I enjoy creating games and experimenting with gameplay systems, mechanics, and i
   </a>
   <a href="https://punkungg.github.io/portfolio_web/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:kawpun1140@gmail.com">
+    <img src="https://img.shields.io/badge/Personal%20Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:Siwapad.Phusrion@alepgagroup.com">
+    <img src="https://img.shields.io/badge/Work%20Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
 
