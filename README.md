@@ -1,12 +1,12 @@
 <h1 align="center">Hey there, I'm Kawpun 👋</h1>
-<h3 align="center">Siwapad Phusrion | Computer Science Student | Aspiring Full-Stack Developer</h3>
+<h3 align="center">Siwapad Phusrion | Computer Science Student | Frontend Intern at Alpega Group</h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFyc2ZtdzQ3NHB0YTVvOHBidDNrcng3M2theWtza2s5MHh5bXMzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif" width="280" alt="hippo gif" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+in+Progress;I+build+websites%2C+apps%2C+and+game+projects;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Frontend+Intern+at+Alpega+Group;Full-Stack+Developer+in+Progress;I+build+websites%2C+apps%2C+and+game+projects;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,10 +16,18 @@
 - I'm **Siwapad Phusrion**
 - You can call me **Kawpun**
 - I'm a **Computer Science student**
-- Currently learning and building projects in **Full-Stack Development**
-- I also enjoy creating **games and interactive projects**
-- My goal is to become a skilled **Full-Stack Developer**
-- I like turning ideas into something people can actually use
+- Currently working as a **Frontend Intern at Alpega Group**
+- I enjoy building **websites, apps, and interactive projects**
+- I'm continuously learning in **Frontend and Full-Stack Development**
+- I like turning ideas into useful products that people can actually use
+
+---
+
+## 💼 Current Work
+
+I’m currently working with **Alpega Group** as a **Frontend Intern**, where I’m gaining hands-on experience in real-world development workflows, team collaboration, and frontend implementation.
+
+This experience is helping me grow not only as a developer, but also in understanding how software is built and maintained in a professional environment.
 
 ---
 
@@ -70,8 +78,9 @@
 
 ## 🧩 Current Interests
 
+- Frontend Development
 - Full-Stack Web Development
-- Frontend UI/UX
+- UI/UX Implementation
 - Backend APIs
 - Mobile App Development
 - Game Development
@@ -86,8 +95,8 @@
 A personal portfolio website to showcase my projects, skills, and development journey.  
 🔗 [Visit Portfolio](https://punkungg.github.io/portfolio_web/)
 
-### Mobile App Projects
-Projects built for learning mobile and web app development, including frontend UI and backend integration.
+### Web & Mobile App Projects
+Projects built for learning and practicing frontend UI, backend integration, and application development.
 
 ### Game Development Projects
 I enjoy creating games and experimenting with gameplay systems, mechanics, and interactive design.
