@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Kawpun 👋</h1>
-<h3 align="center">Siwapad Phusrion | Computer Science Student | Frontend Intern at Alpega Group</h3>
+<h3 align="center">Siwapad Phusrion | Computer Science Student</h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFyc2ZtdzQ3NHB0YTVvOHBidDNrcng3M2theWtza2s5MHh5bXMzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif" width="280" alt="hippo gif" />
@@ -16,18 +16,18 @@
 - I'm **Siwapad Phusrion**
 - You can call me **Kawpun**
 - I'm a **Computer Science student**
-- Currently working as a **Frontend Intern at Alpega Group**
+- Previously worked as a **Frontend Intern at Alpega Group**
 - I enjoy building **websites, apps, and interactive projects**
 - I'm continuously learning in **Frontend and Full-Stack Development**
 - I like turning ideas into useful products that people can actually use
 
 ---
 
-## 💼 Current Work
+## 💼 Internship Experience
 
-I’m currently working with **Alpega Group** as a **Frontend Intern**, where I’m gaining hands-on experience in real-world development workflows, team collaboration, and frontend implementation.
+I completed a **Frontend Internship at Alpega Group**, gaining practical experience in frontend development, team collaboration, and real-world software workflows.
 
-This experience is helping me grow not only as a developer, but also in understanding how software is built and maintained in a professional environment.
+The experience strengthened my technical skills and gave me a better understanding of professional software development.
 
 ---
 
@@ -114,9 +114,6 @@ I enjoy creating games and experimenting with gameplay systems, mechanics, and i
   </a>
   <a href="mailto:kawpun1140@gmail.com">
     <img src="https://img.shields.io/badge/Personal%20Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:Siwapad.Phusrion@alepgagroup.com">
-    <img src="https://img.shields.io/badge/Work%20Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
 
