@@ -54,17 +54,17 @@ The experience strengthened my technical skills and gave me a better understandi
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,nuxt,nodejs,express,laravel,firebase,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,nuxt,nodejs,express,laravel,tailwind,bootstrap" />
 </p>
 
 ### Database & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,git,github,vscode,androidstudio,docker,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,git,github,vscode,androidstudio,docker,supabase,firebase" />
 </p>
 
 ### Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,wix" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
 
 ### Game Development
