@@ -64,7 +64,7 @@ The experience strengthened my technical skills and gave me a better understandi
 
 ### Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare" />
 </p>
 
 ### Game Development
